@@ -59,7 +59,7 @@ export default function () {
                     Annex Live weather Webapp
                   </p>
                   <div className='mt-5'>
-                  <a href="https://annex-weather-app.netlify.app/" target='_blank'>
+                  <a href="https://annex-weather-app.netlify.app" target='_blank'>
                   <button className="transition ease-in-out delay-150 bg-gray-900 hover:-translate-y-1 hover:scale-110 hover:bg-sky-500 duration-300 rounded-full w-32 text-gray-200  hover:text-gray-900 h-8 border-solid border-2 border-sky-200 text-l">
              watch it
             </button>
